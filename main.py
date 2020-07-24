@@ -1,0 +1,1 @@
+print("Hello World, every problem you solve is an O(1) problem because you solved it in constant time. That's not how it works.")
