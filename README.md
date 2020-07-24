@@ -1,1 +1,1 @@
-# CatsAndChocolate
+# CatAndChocolate
